@@ -1,4 +1,4 @@
-c// JS for login
+// JS for login
 async function loginFormHandler(event) {
   event.preventDefault();
 
